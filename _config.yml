@@ -1,0 +1,28 @@
+name: digishack
+favicon: null
+layout_spectrum: 0.606466545490548
+typography_spectrum: 0.7585069804918021
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9064456645864993
+  lightness: 0.19756355206482112
+  saturation: 0.1758006492163986
+  rhythmicContrast: 0.6654163370840251
+purpose: []
